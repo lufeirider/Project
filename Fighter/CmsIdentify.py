@@ -114,7 +114,6 @@ print('\n\n\n\n')
 print(resultDict)
 print('\n\n\n\n')
 print(resultDict[0])
-print('infoDict[resultDict[0][0]]\n\n\n\n')
 print(infoDict[resultDict[0][0]])
 
 
