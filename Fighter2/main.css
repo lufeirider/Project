@@ -1,0 +1,16 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-signin {
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.container
+{
+	width:700px;
+}
+
