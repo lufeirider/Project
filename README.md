@@ -28,4 +28,6 @@ Burp Intruder payloads Burp fuzz与爆破插件
 
 yara yara内存监控Meter shell
 
+LFIScanner Burp 检测LFI插件
+
 目录扫描器、文件监控、chrome快速切换代理等等
