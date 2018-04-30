@@ -30,4 +30,6 @@ yara yara内存监控Meter shell
 
 LFIScanner Burp 检测LFI插件
 
+Redis-ProxyScanner Redis队列服务器分布式代理扫描
+
 目录扫描器、文件监控、chrome快速切换代理等等
