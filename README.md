@@ -25,3 +25,5 @@ TeamViewerWatcher 记录TeamViewer密码
 CreateProcessWatcher HOOK w3wp创建进程
 
 目录扫描器、文件监控、chrome快速切换代理等等
+
+Burp Intruder payloads Burp fuzz与爆破插件
