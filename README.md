@@ -43,3 +43,5 @@ DirectoryScaner 目录扫描器
 WebMonitor 文件监控
 
 ProxySwitch chrome快速切换代理插件
+
+path 从cms源码提取路径
