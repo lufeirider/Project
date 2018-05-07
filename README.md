@@ -30,6 +30,10 @@ yara yara内存监控Meter shell
 
 LFIScanner Burp 检测LFI插件
 
+Burp Intruder payloads 常用的payload继承到插件
+
+Burp Xss Scanner 检测xss的插件
+
 Redis-ProxyScanner Redis队列服务器分布式代理扫描
 
 目录扫描器、文件监控、chrome快速切换代理等等
