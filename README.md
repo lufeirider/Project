@@ -34,6 +34,12 @@ Burp Intruder payloads 常用的payload继承到插件
 
 Burp Xss Scanner 检测xss的插件
 
+CookieEditor chrome 余弦写的chrome插件，修改了并增加了一些功能。
+
 Redis-ProxyScanner Redis队列服务器分布式代理扫描
 
-目录扫描器、文件监控、chrome快速切换代理等等
+DirectoryScaner 目录扫描器
+
+WebMonitor 文件监控
+
+ProxySwitch chrome快速切换代理插件
