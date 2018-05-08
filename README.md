@@ -49,3 +49,5 @@ ProxySwitch chrome快速切换代理插件
 path 从cms源码提取路径
 
 KeyboardRecord 键盘记录
+
+XXEScanner Burp插件，用于检测xxe。
