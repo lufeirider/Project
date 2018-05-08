@@ -1,6 +1,6 @@
 # Project
 
-HUT 1.1.1.3 block 深信服防跳转chrome插件
+HUT 1.1.1.3 block Chrome插件，防止深信服行为控制跳转
 
 Generator 生成免杀的Meterpreter客户端
 
@@ -14,7 +14,7 @@ Sscan 被动寻找sql
 
 ProxyScanner 代理扫描
 
-PortScan异步端口扫描器
+PortScan 异步端口扫描器
 
 RDPBruter RDP 暴力破解工具
 
