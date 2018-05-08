@@ -2,9 +2,11 @@
 
 HUT 1.1.1.3 block 深信服防跳转chrome插件
 
+Generator 生成免杀的Meterpreter客户端
+
 Fighter3 CMS被动识别
 
-SafeProbe SafeProbe插件
+SafeProbe Cdn和waf探测插件
 
 TestDll 检测DLL劫持
 
